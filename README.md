@@ -1,4 +1,21 @@
-![logo](https://user-images.githubusercontent.com/44912347/202244850-18dbf275-11cf-44b5-9500-b2fcb5d44d05.jpg)
+<h1 align="center">Farmers List</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/44912347/202244850-18dbf275-11cf-44b5-9500-b2fcb5d44d05.jpg" alt="Logo">
 
 # FarmersList 🧑‍🌾
 
@@ -160,4 +177,14 @@ Business is booming! Here are few extensions you can add to your existing code:
         - Check that the `product` has enough quantity to complete the command. If the amount requested is greater than the amount available return `I'm sorry there are only QUANTITY of this product left`. 
         - If there is enough of the `quantity`, add the item to the cart, increase the `total`, and then decrease the products quantity.
         - Check if `product` now has a quantity of `0`. If it does, set `inStock` to `false`.
-        - Return the updated `Product`.
+        - Return the updated `Product`.       
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
