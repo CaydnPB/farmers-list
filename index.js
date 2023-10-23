@@ -1,10 +1,9 @@
 // Import Classes Here
-const { Product } = require("./classes/index");
+const { Product } = require("./classes/Product");
 
-
-
-
-
+module.exports = {
+    Product
+}
 
 
 
